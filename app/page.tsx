@@ -21,8 +21,8 @@ export default function Home() {
             <section className="relative h-screen w-full flex items-center justify-center overflow-hidden">
                 <div className="absolute inset-0">
                     <Image
-                        src="/images/tgi/hero-fuji-green.png"
-                        alt="Mt Fuji with Lush Greenery"
+                        src="/images/tgi/hero-fuji-autumn-hd.png"
+                        alt="Mt Fuji with Autumn Leaves"
                         fill
                         className="object-cover"
                         priority
